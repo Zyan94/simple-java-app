@@ -13,6 +13,7 @@ public class App {
         System.out.println("Hello there ! I am simple Java app");
         System.out.println("Jenkins is awesome");
         System.out.println("This training is so exciting!");
+        System.out.println("Exercise 11, page 30");
     }
 
     public String getMessage() {
