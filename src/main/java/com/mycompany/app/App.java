@@ -15,6 +15,7 @@ public class App {
         System.out.println("This training is so exciting!");
         System.out.println("Exercise 11, page 30");
         System.out.println("Set up GitHub WebHook");
+        System.out.println("Set up modification for pipeline");
     }
 
     public String getMessage() {
