@@ -16,7 +16,7 @@ public class App {
         System.out.println("Exercise 11, page 30");
         System.out.println("Set up GitHub WebHook");
         System.out.println("Set up modification for pipeline");
-        System.out.println("Test poll 2 scm pipeline");
+        System.out.println("Test poll 3 scm pipeline");
     }
 
     public String getMessage() {
